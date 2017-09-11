@@ -24,6 +24,8 @@ public class Survey extends JFrame implements ActionListener {
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setTitle("Work Term Evaluation");
+		final createFrame frame = new createFrame();
+		frame.run();
 		JButton button1 = new JButton("Continue");
 		button1.setBounds(90, 500, 125, 30);
 		button1.setActionCommand("continue");
@@ -35,8 +37,17 @@ public class Survey extends JFrame implements ActionListener {
 	
 	public void actionPerformed(ActionEvent e) {
 		if ("continue".equals(e.getActionCommand())) {
-			JFrame newFrame = new JFrame();
-			newFrame.setVisible(true);
+			//JFrame newFrame = new JFrame();
+			//newFrame.setSize(300,600);
+			//newFrame.setResizable(false);
+			//newFrame.setLayout(null);
+			//newFrame.setLocationRelativeTo(null);
+			//newFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+			//newFrame.setTitle("Work Term Evaluation");
+			final createFrame frame = new createFrame();
+			frame.run();
+			this.dispose();
+			//newFrame.setVisible(true);
 			
 		} else {
 			JOptionPane.showMessageDialog(null, "Did not work");
