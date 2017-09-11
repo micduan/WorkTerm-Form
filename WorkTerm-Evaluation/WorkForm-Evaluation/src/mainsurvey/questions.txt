@@ -1,0 +1,85 @@
+[
+	"questions": [
+		{
+			"text": "Interest in Work. The degree to which the student pursues goals with commitment and takes pride in achievements.",
+			"type": "MC"
+		},
+		{
+			"text":"Ability to Learn. The extent to which the student becomes proficient with job duties and work processes.",
+			"type": "MC"
+		},
+		{
+			"text":"Quality of Work. The ability of the student to set high standards for own personal performance; strive for quality work; put forth extra effort to ensure quality work.",
+			"type":"MC"
+		},
+		{
+			"text":"Quantity of Work. The volume of work produced by the student, along with his or her speed and consistency of output.",
+			"type": "MC"
+		},
+		{
+			"text":"Problem Solving.The student's demonstrated ability to analyze problems or procedures, evaluate alternatives, and select the best course of action.",
+			"type":"MC"
+		},
+		{
+			"text":"Teamwork. The degree to which the student works well in a team setting.",
+			"type":"MC"
+		},
+		{
+			"text":"Dependability. The manner in which the student conducts his or herself in the working environment.",
+			"type":"MC"
+		},
+		{
+			"text":"Response to Supervision. The manner in which the student responds to direction and constructive criticism.",
+			"type":"MC"
+		},
+		{
+			"text":"Reflection. The student's demonstrated ability to learn and adapt from previous experience.",
+			"type":"MC"
+		},
+		{
+			"text":"Resourcefulness. THe student's demonstrated ability to develop innovative solutions and display flexibility in unique or demanding circumstances.",
+			"type":"MC"
+		},
+		{
+			"text":"Ethical Behaviour. The extent to which the students behaviour demonstrates integrity and ethics in work and relationships.",
+			"type":"MC"
+		},
+		{
+			"text":"Appreciation of Diversity. The degree to which the student shows understanding and sensitivy to needs and differences of others (i.e. ethnicity, religion, language, etc.)",
+			"type":"MC"
+		},
+		{
+			"text":"Entreprenrial Orientation. The students demonstrated ability to take informed risks that demonstrate creativity and add value to the company.",
+			"type":"MC"
+		},
+		{
+			"text":"Written Communication. The extent to which the student demonstrates effective written communication.",
+			"type":"MC"
+		},
+		{
+			"text":"Oral Communication. The extent to which the student demonstrates effective oral communication.",
+			"type":"MC"
+		},
+		{
+			"text":"Interpersonal Communication. The extent to which the student effectively listens, conveys, and receives ideas, information, and direction.",
+			"type":"MC"
+		},
+		{
+			"text":"Overall Performance Rating",
+			"type":"MC"
+		},
+		{
+			"text": "Do you wish to have the student return for the next work term?",
+			"type": "YN"
+		},
+		{
+			"text": "If yes, have you offered to re-employ the student for the next work term?",
+			"type": "YN"
+		}
+
+	],
+	"updated": [
+		"author": "Michael Duan",
+		"date": "September 10, 2017"
+	]
+]

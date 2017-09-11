@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: WorkForm-Evaluation
+Bundle-SymbolicName: WorkForm-Evaluation
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: WorkForm-Evaluation.jar,
+ micduan/Downloads/stleary-JSON-java-20170516-49-g2565abd.zip
+Export-Package: mainsurvey
