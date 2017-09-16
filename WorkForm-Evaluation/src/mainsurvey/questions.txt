@@ -1,4 +1,4 @@
-[
+{
 	"questions": [
 		{
 			"text": "Interest in Work. The degree to which the student pursues goals with commitment and takes pride in achievements.",
@@ -78,8 +78,8 @@
 		}
 
 	],
-	"updated": [
+	"updated": {
 		"author": "Michael Duan",
 		"date": "September 10, 2017"
-	]
-]
+	}
+}
